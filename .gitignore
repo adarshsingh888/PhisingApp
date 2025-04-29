@@ -11,8 +11,8 @@ build/
 
 # Environment
 myenv/
-env
-venv
+env/
+venv/
 
 # Django
 db.sqlite3
